@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+* Sunshine
+* Driving 
+* God
+* Internet
+* Business
+* Good Deals
+* Code
